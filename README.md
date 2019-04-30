@@ -1,5 +1,5 @@
 # Video_Downloader
-A python program that uses Youtube-dl (a command line tool) to download single or multiple video files.
+A python program that provides a simple interface to the Youtube-dl (command line tool) to download single or multiple video files.
 
 # Prerequisites 
 #### python 2.7
