@@ -11,7 +11,7 @@ A python program that provides a simple interface to the Youtube-dl (command lin
 
 - Create a folder that that you want the videos to be saved in
 - Change the path to this folder in final-mac.py (see comments in final-mac.py)
-- Run final-mac.py from Terminal (mac) or command prompt (Windows)
+- Run $python final-mac.py from Terminal (mac) or command prompt (Windows) (from the folder the files are saved in)
 - Enjoy
 
 # What you can do
