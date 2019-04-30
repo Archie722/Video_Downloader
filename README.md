@@ -3,4 +3,4 @@ A python program that uses Youtube-dl (a command line tool) to download single o
 
 # Prerequisites 
 #### python 2.7
-#### [YouTube-dl](https://github.com/ytdl-org/youtube-dl.git)
+#### Install [YouTube-dl](https://github.com/ytdl-org/youtube-dl.git)
