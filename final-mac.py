@@ -3,8 +3,6 @@
 # subprocess allows the user to enter command line input into the program itself
 # each command is a seperate entity in a list and will accept variables
 import subprocess
-test change 
-test change 2
 
 def single_url():
     url = raw_input("Enter the URL of the video to download :> \n")
