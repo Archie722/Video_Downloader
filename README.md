@@ -6,7 +6,7 @@ A python program that provides a simple interface to the Youtube-dl (command lin
 #### Install [YouTube-dl](https://github.com/ytdl-org/youtube-dl.git)
 
 # How to use
-- This version uses Python 2.7
+- This version uses Python 3.X
 - Install YouTube-dl using the link provided for your mac/PC
 
 - Create a folder that that you want the videos to be saved in
