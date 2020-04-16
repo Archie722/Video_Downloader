@@ -1,8 +1,8 @@
-# Video_Downloader - Python 2.7
+# Video_Downloader - Python 3
 A python program that provides a simple interface to the Youtube-dl (command line tool) to download single or multiple video files.
 
 # Prerequisites 
-#### python 2.7
+#### python 3.X
 #### Install [YouTube-dl](https://github.com/ytdl-org/youtube-dl.git)
 
 # How to use
